@@ -11,6 +11,16 @@ module.exports = {
     inline: true,
     port: 7700,
     historyApiFallback: true,
+    presets: [
+      [
+        '@babel/preset-env',
+        {
+          targets: {
+            esmodules: true,
+          },
+        },
+      ],
+    ],
   },
   resolve: {
     extensions: ['', '.js', '.jsx'],
