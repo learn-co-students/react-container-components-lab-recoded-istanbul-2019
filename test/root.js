@@ -1,4 +1,6 @@
 require('babel-register')();
+import regeneratorRuntime from "regenerator-runtime";
+import "regenerator-runtime/runtime.js";
 
 var exposedProperties = ['window', 'navigator', 'document'];
 
