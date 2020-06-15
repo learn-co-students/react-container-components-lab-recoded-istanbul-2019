@@ -11,6 +11,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.10.1",
     "jsdom": "^9.9.1",
     "mocha": "^5.2.0",
     "react-scripts": "^1.0.7",
@@ -35,12 +36,12 @@
     "node-fetch": "^2.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "sinon": "^6.1.4"
+    "sinon": "^6.1.4",
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "mocha -w test/helpers.js test/*.js",
+    "test": "mocha --timeout 10000 -w test/helpers.js test/*.js",
     "dev:hot": "webpack-dev-server --hot --inline --progress --colors --watch --display-error-details --display-cached --content-base ./",
     "test:watch": "npm run test -- --watch",
     "eject": "react-scripts eject"
