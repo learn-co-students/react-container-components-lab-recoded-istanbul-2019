@@ -1,0 +1,448 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "has_more": true,
+  "num_results": 20,
+  "results": [
+    {
+      "display_title": "Yourself and Yours",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "Glenn Kenny",
+      "headline": "\u2018Yourself and Yours\u2019 Review: Romance, Alcohol and a Puzzle",
+      "summary_short": "The South Korean director Hong Sang-soo puts viewers in tune with the world of his sad-sack characters immediately.",
+      "publication_date": "2020-06-04",
+      "opening_date": null,
+      "date_updated": "2020-06-04 12:04:04",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/04/movies/yourself-and-yours-review.html",
+        "suggested_link_text": "Read the New York Times Review of Yourself and Yours"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/05/arts/04yourself/04yourself-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Tommaso",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "Glenn Kenny",
+      "headline": "\u2018Tommaso\u2019 Review: A Sober, but Not Serene, Life",
+      "summary_short": "Abel Ferrara\u2019s new semi-autobiographical drama, starring Willem Dafoe, crackles with ideas and empathy.",
+      "publication_date": "2020-06-04",
+      "opening_date": "2020-06-05",
+      "date_updated": "2020-06-04 11:04:04",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/04/movies/tommaso-review.html",
+        "suggested_link_text": "Read the New York Times Review of Tommaso"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/05/arts/04tommaso-art/04tommaso-art-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Dreamland",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "Jeannette Catsoulis",
+      "headline": "\u2018Dreamland\u2019 Review: The Hit Man and the Trumpeter",
+      "summary_short": "A double dose of Stephen McHattie helps this freaky noir find its footing.",
+      "publication_date": "2020-06-04",
+      "opening_date": null,
+      "date_updated": "2020-06-04 11:04:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/04/movies/dreamland-review.html",
+        "suggested_link_text": "Read the New York Times Review of Dreamland"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/02/arts/dreamland2/dreamland2-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Judy & Punch",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Jeannette Catsoulis",
+      "headline": "\u2018Judy & Punch\u2019 Review: On With the Horror Show",
+      "summary_short": "In this bizarre satire, married puppeteers enact a grotesque comic tragedy of violence and revenge.",
+      "publication_date": "2020-06-04",
+      "opening_date": "2020-06-05",
+      "date_updated": "2020-06-04 14:02:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/04/movies/judy-and-punch-review.html",
+        "suggested_link_text": "Read the New York Times Review of Judy & Punch"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/05/arts/judy1/judy1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "And We Go Green",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Amy Nicholson",
+      "headline": "\u2018And We Go Green\u2019 Review: Start Your (Quiet) Engines",
+      "summary_short": "The cheery, lightweight documentary looks at the electric car racing series Formula E.",
+      "publication_date": "2020-06-04",
+      "opening_date": "2020-06-04",
+      "date_updated": "2020-06-04 12:04:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/04/movies/and-we-go-green-review.html",
+        "suggested_link_text": "Read the New York Times Review of And We Go Green"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/06/arts/andwego1/andwego1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Feral",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Glenn Kenny",
+      "headline": "\u2018Feral\u2019 Review: Homeless and Unraveling as a Storm Approaches",
+      "summary_short": "Annapurna Sriram portrays a young woman struggling with mental illness while living near train tracks in Brooklyn.",
+      "publication_date": "2020-06-04",
+      "opening_date": "2020-06-02",
+      "date_updated": "2020-06-04 12:04:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/04/movies/feral-review.html",
+        "suggested_link_text": "Read the New York Times Review of Feral"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/04/arts/04feral/04feral-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Parkland Rising",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Teo Bugbee",
+      "headline": "\u2018Parkland Rising\u2019 Review: A Close-Up on Activism After a Tragedy",
+      "summary_short": "A documentary profiles students and parents who became organizers after the school shooting, but doesn\u2019t provide a lot of fresh insight.",
+      "publication_date": "2020-06-04",
+      "opening_date": "2019-10-04",
+      "date_updated": "2020-06-04 11:04:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/04/movies/parkland-rising-review.html",
+        "suggested_link_text": "Read the New York Times Review of Parkland Rising"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/04/arts/04parkland-rising/04parkland-rising-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "2040",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Ben Kenigsberg",
+      "headline": "\u20182040\u2019 Review: Tools to Fix the World, Already at Hand",
+      "summary_short": "Damon Gameau\u2019s documentary is an accessible, informative and optimistic look at solutions to the climate crisis.",
+      "publication_date": "2020-06-04",
+      "opening_date": "2020-06-05",
+      "date_updated": "2020-06-04 11:04:05",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/04/movies/2040-review.html",
+        "suggested_link_text": "Read the New York Times Review of 2040"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/04/arts/04twentyforty-art/04twentyforty-art-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Shirley",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "A.O. Scott",
+      "headline": "\u2018Shirley\u2019 Review: A Writer as Scary as Her Stories",
+      "summary_short": "Elisabeth Moss stars as Shirley Jackson in Josephine Decker\u2019s gothic, feverish anti-biopic.",
+      "publication_date": "2020-06-03",
+      "opening_date": "2020-06-05",
+      "date_updated": "2020-06-03 20:10:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/03/movies/shirley-review.html",
+        "suggested_link_text": "Read the New York Times Review of Shirley"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/05/arts/00shirley/00shirley-mediumThreeByTwo210-v2.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Spelling the Dream",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Bilal Qureshi",
+      "headline": "\u2018Spelling the Dream\u2019 Review: Words of Inspiration",
+      "summary_short": "This Netflix documentary explores the unbroken Indian-American dominance of the U.S. national spelling bee, to less than winning results.",
+      "publication_date": "2020-06-03",
+      "opening_date": "2020-06-03",
+      "date_updated": "2020-06-03 12:48:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/03/movies/spelling-the-dream-review.html",
+        "suggested_link_text": "Read the New York Times Review of Spelling the Dream"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/06/arts/spelling1/spelling1-mediumThreeByTwo210.png",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Searching Eva",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "Ben Kenigsberg",
+      "headline": "\u2018Searching Eva\u2019 Review: Identity Poetics",
+      "summary_short": "This portrait of a professed sex worker, writer, anarchist, feminist, musician and recovering addict is a tough film to pin down.",
+      "publication_date": "2020-06-02",
+      "opening_date": "2020-05-18",
+      "date_updated": "2020-06-02 22:30:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/02/movies/searching-eva-review.html",
+        "suggested_link_text": "Read the New York Times Review of Searching Eva"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/06/05/arts/searching1/searching1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Phoenix, Oregon",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "Devika Girish",
+      "headline": "\u2018Phoenix, Oregon\u2019 Review: An Ode to Small-Town Joys",
+      "summary_short": "Gary Lundgren\u2019s comedy, which celebrates the comfort of a local hang, feels poignant during our current pandemic.",
+      "publication_date": "2020-06-01",
+      "opening_date": "2020-03-20",
+      "date_updated": "2020-06-01 14:04:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/06/01/movies/phoenix-oregon-review.html",
+        "suggested_link_text": "Read the New York Times Review of Phoenix, Oregon"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/05/29/arts/phoenix1/phoenix1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Circumstantial Pleasures",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "Manohla Dargis",
+      "headline": "\u2018Circumstantial Pleasures\u2019 Review: The Lyrical Junkman Cometh",
+      "summary_short": "A new movie by Lewis Klahr, who makes striking, personal assemblages out of cultural detritus.",
+      "publication_date": "2020-05-28",
+      "opening_date": "2020-05-29",
+      "date_updated": "2020-05-28 18:10:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/05/28/movies/circumstantial-pleasures-review.html",
+        "suggested_link_text": "Read the New York Times Review of Circumstantial Pleasures"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/05/29/arts/00circumstantial/00circumstantial-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Papicha",
+      "mpaa_rating": "",
+      "critics_pick": 1,
+      "byline": "Jeannette Catsoulis",
+      "headline": "\u2018Papicha\u2019 Review: Fashion Statement",
+      "summary_short": "A young Algerian woman rebels against religious extremism in Mounia Meddour\u2019s vibrant film.",
+      "publication_date": "2020-05-28",
+      "opening_date": null,
+      "date_updated": "2020-05-28 14:06:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/05/28/movies/papicha-review.html",
+        "suggested_link_text": "Read the New York Times Review of Papicha"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/05/27/arts/papicha1/papicha1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The Vast of Night",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "Manohla Dargis",
+      "headline": "\u2018The Vast of Night\u2019 Review: There\u2019s More to Fear Than Fear Itself",
+      "summary_short": "In a small New Mexico town in the 1950s, an eerie throbbing sound and a lot of questions send two friends in search of answers.",
+      "publication_date": "2020-05-28",
+      "opening_date": "2020-05-15",
+      "date_updated": "2020-05-28 16:48:03",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/05/28/movies/the-vast-of-night-review.html",
+        "suggested_link_text": "Read the New York Times Review of The Vast of Night"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/05/28/movies/28VASTOFNIGHT/28VASTOFNIGHT-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "I Will Make You Mine",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Jeannette Catsoulis",
+      "headline": "\u2018I Will Make You Mine\u2019 Review: Three Times a Lady",
+      "summary_short": "Three women struggle with feelings for the same man in this gentle, partly improvised drama.",
+      "publication_date": "2020-05-28",
+      "opening_date": "0000-00-00",
+      "date_updated": "2020-05-28 16:34:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/05/28/movies/i-will-make-you-mine-review.html",
+        "suggested_link_text": "Read the New York Times Review of I Will Make You Mine"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/05/27/arts/iwillmake1/iwillmake1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Street Fighting Men",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Glenn Kenny",
+      "headline": "\u2018Street Fighting Men\u2019 Review: Reviving Detroit From Within",
+      "summary_short": "Stories of the death and rebirth of this city are familiar, but Andrew James\u2019s documentary conveys the experience of living there.",
+      "publication_date": "2020-05-28",
+      "opening_date": null,
+      "date_updated": "2020-05-28 14:44:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/05/28/movies/street-fighting-men-review.html",
+        "suggested_link_text": "Read the New York Times Review of Street Fighting Men"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/05/26/arts/street1/street1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Stage: The Culinary Internship",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Ben Kenigsberg",
+      "headline": "\u2018Stage: The Culinary Internship\u2019 Review: Apprentices With Eclectic Appetites",
+      "summary_short": "In this documentary, aspiring chefs push their limits (and the limits of modern cuisine).",
+      "publication_date": "2020-05-28",
+      "opening_date": null,
+      "date_updated": "2020-05-28 14:38:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/05/28/movies/stage-the-culinary-internship-review.html",
+        "suggested_link_text": "Read the New York Times Review of Stage: The Culinary Internship"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/05/26/arts/stage1/stage1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Ursula von Rydingsvard: Into Her Own",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "Glenn Kenny",
+      "headline": "\u2018Into Her Own\u2019 Review: A Sculptor\u2019s Monumental Achievements",
+      "summary_short": "For Ursula von Rydingsvard, it essentially takes a village to create a sculpture.",
+      "publication_date": "2020-05-28",
+      "opening_date": null,
+      "date_updated": "2020-05-28 14:32:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/05/28/movies/into-her-own-review.html",
+        "suggested_link_text": "Read the New York Times Review of Ursula von Rydingsvard: Into Her Own"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/05/28/arts/28intoherpix/merlin_172757604_88a99a3b-476b-4c13-aef6-002ed5f78ee9-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The High Note",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "Jeannette Catsoulis",
+      "headline": "\u2018The High Note\u2019 Review: A Little Pitchy",
+      "summary_short": "Dakota Johnson and Tracee Ellis Ross anchor this timid recording-industry story about a pop superstar and her ambitious assistant.",
+      "publication_date": "2020-05-28",
+      "opening_date": "2020-05-29",
+      "date_updated": "2020-05-28 14:06:02",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2020/05/28/movies/the-high-note-review-a-little-pitchy.html",
+        "suggested_link_text": "Read the New York Times Review of The High Note"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2020/05/29/arts/highnote1/highnote1-mediumThreeByTwo210.jpg",
+        "width": 210,
+        "height": 140
+      }
+    }
+  ]
+}
